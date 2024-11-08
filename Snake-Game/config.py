@@ -22,5 +22,4 @@ BORDER_WIDTH = 10  # Largura da borda ao redor da área jogável
 INITIAL_SPEED = 10
 FONT = pygame.font.Font(None, 36)
 
-# Adicionar caso seja necessário
 GREEN = (0, 255, 0)  # Verde padrão, caso ainda seja usado em outros lugares
